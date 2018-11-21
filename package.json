@@ -1,0 +1,13 @@
+{
+  "name": "team_scheire_data_converter",
+  "version": "1.0.0",
+  "description": "Script die de dataset van het experiment in het programma 'Team Scheire' omzet naar Linked Open Data.",
+  "main": "converter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dwight Van Lancker",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
